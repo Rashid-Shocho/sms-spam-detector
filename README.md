@@ -69,6 +69,8 @@ Workflow:
 
     ![SMS Spam Detector Screenshot](pic1.png)
 
+
+
     ![SMS Spam Detector Screenshot](pic2.png)
 
 
@@ -76,4 +78,9 @@ Workflow:
 
 📜 License
 This project is licensed under the MIT License.
+
+✨ Acknowledgments
+
+UCI Machine Learning Repository - SMS Spam Dataset
+
 
