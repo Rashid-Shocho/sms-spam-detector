@@ -67,11 +67,10 @@ Workflow:
 
     Here’s how the app looks when running:
 
-    ![SMS Spam Detector Screenshot](pic1.png)
+   ![SMS Spam Detector Screenshot](pic1.png)
+   
+   ![SMS Spam Detector Screenshot](pic2.png)
 
-
-
-    ![SMS Spam Detector Screenshot](pic2.png)
 
 
 
@@ -82,5 +81,6 @@ This project is licensed under the MIT License.
 ✨ Acknowledgments
 
 UCI Machine Learning Repository - SMS Spam Dataset
+
 
 
